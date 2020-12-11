@@ -216,4 +216,4 @@ if (part==2):
         seats = apply_rule_part2(seats)
         if (current_seats == seats):  
             break
-    print(count_occupied_seat(seats))
+    print(count_occupied_seat(seats ))
